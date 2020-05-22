@@ -1,0 +1,9 @@
+# ignore editor configs
+.vscode/
+
+# ignore config file
+config.py
+config.pyc
+
+# ignore logs
+*.log

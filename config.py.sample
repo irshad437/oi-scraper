@@ -1,0 +1,9 @@
+# Put telegram token here
+TELEGRAM_TOKEN = 0
+
+# Chat id of the telegram channels; put 0 if don't want to send telegram message
+NIFTY_CHANNEL_ID = 0
+BN_CHANNEL_ID = 0
+
+# Add upcoming expiry for the bot to work
+UPCOMING_EXPIRY = ['30APR2020','7MAY2020','14MAY2020','21MAY2020','28MAY2020','4JUN2020','11JUN2020','18JUN2020','25JUN2020','2JUL2020','24SEP2020','31DEC2020','25MAR2021','24JUN2021','30DEC2021','30JUN2022','29DEC2022','29JUN2023']
